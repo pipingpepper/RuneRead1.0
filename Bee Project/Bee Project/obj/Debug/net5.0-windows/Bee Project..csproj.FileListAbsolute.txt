@@ -1,0 +1,18 @@
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\obj\Debug\net5.0-windows\Bee Project..csproj.AssemblyReference.cache
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\obj\Debug\net5.0-windows\Bee_Project_.Form1.resources
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\obj\Debug\net5.0-windows\Bee Project..csproj.GenerateResource.cache
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\obj\Debug\net5.0-windows\Bee Project..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\obj\Debug\net5.0-windows\Bee Project..AssemblyInfoInputs.cache
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\obj\Debug\net5.0-windows\Bee Project..AssemblyInfo.cs
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\obj\Debug\net5.0-windows\Bee Project..csproj.CoreCompileInputs.cache
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\obj\Debug\net5.0-windows\Bee Project..genruntimeconfig.cache
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\bin\Debug\net5.0-windows\Bee Project 1.0.exe
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\bin\Debug\net5.0-windows\Bee Project 1.0.deps.json
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\bin\Debug\net5.0-windows\Bee Project 1.0.runtimeconfig.json
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\bin\Debug\net5.0-windows\Bee Project 1.0.runtimeconfig.dev.json
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\bin\Debug\net5.0-windows\Bee Project 1.0.dll
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\bin\Debug\net5.0-windows\ref\Bee Project 1.0.dll
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\bin\Debug\net5.0-windows\Bee Project 1.0.pdb
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\obj\Debug\net5.0-windows\Bee Project 1.0.dll
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\obj\Debug\net5.0-windows\ref\Bee Project 1.0.dll
+C:\Users\Cory Johnson\source\repos\Bee Project\Bee Project\obj\Debug\net5.0-windows\Bee Project 1.0.pdb

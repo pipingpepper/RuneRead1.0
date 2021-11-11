@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Bee_Project_</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>Bee Project 1.0</AssemblyName>
+  </PropertyGroup>
+
+</Project>
